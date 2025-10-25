@@ -26,4 +26,5 @@ It demonstrates the structure and design of a basic e-commerce website, includin
 
 ## 👩‍💻 Author
 **Glejda Silaj**  
-Student in Database & Web Design — KPT  
+Student in Database & Web Design — Tirana collage of technology
+
